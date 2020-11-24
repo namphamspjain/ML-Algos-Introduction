@@ -12,3 +12,4 @@ We will use a mix of linear (LR and LDS) and non linear (KNN,CART,NB,SVM) algos
 ![alt text](Mlalgos.png)
 ## Conclusion
 SVM has the best accuracy so lets pick SVM and train the SVM model and make predictions
+![alt text](SVM.png)
